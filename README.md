@@ -1,4 +1,4 @@
 # Minecraft-Run-Forge-1.20
 Pra Iniciar é simples 
-> #Init
+> # Init
 > > gradlew runClient
